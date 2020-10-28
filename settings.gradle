@@ -1,0 +1,3 @@
+include ':serializer'
+include ':app', ':jkotlin'
+rootProject.name = "Java Kotlin"
